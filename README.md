@@ -18,7 +18,7 @@ So I built a tool that’s:
 
 ## 🚀 Try It Live
 
-👉 **[https://quiz-winner-selector.vercel.app](https://quiz-winner-selector.vercel.app)**
+👉 **[Click Here](https://muslims-deed-quiz-winner.vercel.app)**
 
 *(Works instantly on any device — no installation needed!)*
 
